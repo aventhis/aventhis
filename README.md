@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Irina, a passionate student of Programming School 21.
+I'm Irina, a passionate student of Programming School 21(42).
 
 Welcome to my page! 
 ##
