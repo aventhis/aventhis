@@ -1,16 +1,16 @@
 ### Hi there 👋
+I'm Irina, a passionate student of Programming School 21.
 
-<!--
-**jenisepl/jenisepl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page! 
+##
+About me:
+- :nerd_face: I'm currently learning C and SWIFT
+- :earth_africa: I speak Russian, English
+- :e-mail: Reach me by [email](kis.93@mail.ru) or [telegram](https://t.me/irrishka_k)
 
-Here are some ideas to get you started:
+##
+Languages and tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" width="48"/>
+          
+##
