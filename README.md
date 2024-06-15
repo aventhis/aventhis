@@ -7,10 +7,12 @@ Welcome to my page!
 About me:
 - :nerd_face: I have a solid knowledge of C and C++, and I'm currently learning SWIFT.
 - :computer: I have experience with SQL, basic Linux, Docker, and CI/CD.
+- :octocat: I am a confident user of Git.
 - :test_tube: I have written integration tests in Bash, and unit tests in C and C++ using the Check and Google Test libraries.
 - :wrench: I have worked on projects in Qt, including a calculator, a 3D viewer, and a Snake game.
 - :earth_africa: I speak Russian and English.
 - :e-mail: Reach me by [email](kis.93@mail.ru) or [telegram](https://t.me/irrishka_k)
+
 
 ##
 Languages and tools:
