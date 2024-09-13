@@ -4,7 +4,7 @@ Welcome to my GitHub page!
 
 I am a junior developer currently studying at "School 21," where I am advancing my skills in IT. I am learning Go through personal projects and professional courses. My goal is to grow as a developer, solve complex challenges, and create high-performance services.
 
-## Tech Stack and Experience
+## 🛠 Tech Stack and Experience
 - **Main Tech Stack**: Golang
 - **Additional Languages**: C, C++
 - **Database Experience**: PostgreSQL
@@ -15,8 +15,8 @@ I am a junior developer currently studying at "School 21," where I am advancing 
 - **Version Control**: Git, GitHub/GitLab
 
 ## 🌍 Languages
-- Fluent in **Russian**
 - English - C1/C2 Advanced/Proficient
+- Fluent in **Russian**
   
 ## 🎓 Education
 - School 21 - Educational project by Sber for developers (2024)
