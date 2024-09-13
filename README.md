@@ -1,4 +1,4 @@
-### Hi, i'm Irina
+# Hi, i'm Irina
 
 Welcome to my GitHub page!
 
