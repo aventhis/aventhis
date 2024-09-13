@@ -14,15 +14,16 @@ I am a junior developer currently studying at "School 21," where I am advancing 
 - **Algorithms & Data Structures**: Proficient in basic algorithms and data structures
 - **Version Control**: Git, GitHub/GitLab
 
-##
-About Me:
-- 💻 Currently focused on developing expertise in **Golang**, with additional experience in **C** and **C++**.
-- 📊 Background in **finance** with a degree from **Plekhanov Russian University of Economics**, now transitioning to IT development.
-- 🛠 Skilled in **Docker**, **CI/CD**, **PostgreSQL**, and working with APIs (REST, gRPC).
-- 🌍 Fluent in **Russian** and **English** (C1/C2 level).
-- 🎯 Interested in solving complex problems and contributing to high-load services.
-- 📧 You can reach me at [kis.93@mail.ru](mailto:kis.93@mail.ru) or via [Telegram](https://t.me/irrishka_k).
+## 🌍 Languages
+- Fluent in **Russian**
+- English - C1/C2 Advanced/Proficient
+  
+## 🎓 Education
+- School 21 - Educational project by Sber for developers (2024)
+- Plekhanov Russian University of Economics, with a degree in “Finance and Credit” (2015)
 
+## 📧 Contact
+- You can reach me at [kis.93@mail.ru](mailto:kis.93@mail.ru) or via [Telegram](https://t.me/irrishka_k).
 
 ##
 Languages and tools:
