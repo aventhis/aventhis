@@ -1,14 +1,14 @@
-### Hi there 👋
-I'm Irina, a dedicated student at Programming School 21 (42).
-
-Welcome to my page!
+Welcome to my GitHub page!
 
 ##
-About me:
-- :nerd_face: I'm currently learning GO.
-- :computer: I have a solid knowledge of C and C++, SQL, basic Linux, Docker, and CI/CD
-- :earth_africa: I speak Russian and English.
-- :e-mail: Reach me by [email](kis.93@mail.ru) or [telegram](https://t.me/irrishka_k)
+About Me:
+- 💻 Currently focused on developing expertise in **Golang**, with additional experience in **C** and **C++**.
+- 📊 Background in **finance** with a degree from **Plekhanov Russian University of Economics**, now transitioning to IT development.
+- 🛠 Skilled in **Docker**, **CI/CD**, **PostgreSQL**, and working with APIs (REST, gRPC).
+- 🌍 Fluent in **Russian** and **English** (C1/C2 level).
+- 🎯 Interested in solving complex problems and contributing to high-load services.
+- 📧 You can reach me at [kis.93@mail.ru](mailto:kis.93@mail.ru) or via [Telegram](https://t.me/irrishka_k).
+
 
 
 ##
