@@ -2,6 +2,8 @@
 
 Welcome to my GitHub page!
 
+I am a junior developer currently studying at "School 21," where I am advancing my skills in IT. I am learning Go through personal projects and professional courses. My goal is to grow as a developer, solve complex challenges, and create high-performance services.
+
 ## Tech Stack and Experience
 - **Main Tech Stack**: Golang
 - **Additional Languages**: C, C++
