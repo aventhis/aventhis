@@ -2,6 +2,16 @@
 
 Welcome to my GitHub page!
 
+## Tech Stack and Experience
+- **Main Tech Stack**: Golang
+- **Additional Languages**: C, C++
+- **Database Experience**: PostgreSQL
+- **Frameworks**: gRPC, REST API, Docker
+- **Tools**: Git, Docker, CI/CD
+- **Testing**: Unit Testing, TDD principles
+- **Algorithms & Data Structures**: Proficient in basic algorithms and data structures
+- **Version Control**: Git, GitHub/GitLab
+
 ##
 About Me:
 - 💻 Currently focused on developing expertise in **Golang**, with additional experience in **C** and **C++**.
@@ -10,15 +20,6 @@ About Me:
 - 🌍 Fluent in **Russian** and **English** (C1/C2 level).
 - 🎯 Interested in solving complex problems and contributing to high-load services.
 - 📧 You can reach me at [kis.93@mail.ru](mailto:kis.93@mail.ru) or via [Telegram](https://t.me/irrishka_k).
-
-## Main Tech Stack: Golang
-- **Additional Languages**: C, C++
-- **Database Experience**: PostgreSQL
-- **Frameworks**: gRPC, REST API, Docker
-- **Tools**: Git, Docker, CI/CD
-- **Testing**: Unit Testing, TDD principles
-- **Algorithms & Data Structures**: Proficient in basic algorithms and data structures
-- **Version Control**: Git, GitHub/GitLab
 
 
 ##
