@@ -8,7 +8,7 @@ Welcome to my GitHub page!
 - **Database Experience**: PostgreSQL
 - **Frameworks**: gRPC, REST API, Docker
 - **Tools**: Git, Docker, CI/CD
-- **Testing**: Unit Testing, TDD principles
+- **Testing**: Unit Testing
 - **Algorithms & Data Structures**: Proficient in basic algorithms and data structures
 - **Version Control**: Git, GitHub/GitLab
 
