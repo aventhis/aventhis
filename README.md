@@ -25,9 +25,11 @@ I am a junior developer currently studying at "School 21," where I am advancing 
 🌍 Languages:
 - English - C1/C2 Advanced/Proficient
 - Fluent in **Russian**
+
 🎓 Education
 - School 21 - Educational project by Sber for developers (2024)
 - Plekhanov Russian University of Economics, with a degree in “Finance and Credit” (2015)
+
 📧 Contact
 - You can reach me at [kis.93@mail.ru](mailto:kis.93@mail.ru) or via [Telegram](https://t.me/irrishka_k).
 
