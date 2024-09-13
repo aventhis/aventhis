@@ -14,23 +14,22 @@ I am a junior developer currently studying at "School 21," where I am advancing 
 - **Algorithms & Data Structures**: Proficient in basic algorithms and data structures
 - **Version Control**: Git, GitHub/GitLab
 
-## 🌍 Languages
-- English - C1/C2 Advanced/Proficient
-- Fluent in **Russian**
-  
-## 🎓 Education
-- School 21 - Educational project by Sber for developers (2024)
-- Plekhanov Russian University of Economics, with a degree in “Finance and Credit” (2015)
-
-## 📧 Contact
-- You can reach me at [kis.93@mail.ru](mailto:kis.93@mail.ru) or via [Telegram](https://t.me/irrishka_k).
-
 ## My projects
 - [Golang](https://github.com/search?q=user:aventhis+language:golang&type=repositories)
 - [C++](https://github.com/search?q=user:aventhis+language:cpp&type=repositories)
 - [C](https://github.com/search?q=user:aventhis+language:c&type=repositories)
 - [SQL](https://github.com/search?q=user:aventhis+language:sql&type=repositories)
 - [DevOps](https://github.com/search?q=user:aventhis+topic:devops&type=repositories)
+
+##  About me
+🌍 Languages:
+- English - C1/C2 Advanced/Proficient
+- Fluent in **Russian**
+🎓 Education
+- School 21 - Educational project by Sber for developers (2024)
+- Plekhanov Russian University of Economics, with a degree in “Finance and Credit” (2015)
+📧 Contact
+- You can reach me at [kis.93@mail.ru](mailto:kis.93@mail.ru) or via [Telegram](https://t.me/irrishka_k).
 
 ##
 Languages and tools:
