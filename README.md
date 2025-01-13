@@ -8,10 +8,9 @@ I am a junior developer currently studying at "School 21," where I am advancing 
 - **Main Tech Stack**: Golang
 - **Additional Languages**: C, C++
 - **Database Experience**: PostgreSQL
-- **Frameworks**: gRPC, REST API, Docker
+- **Frameworks**: REST API, Docker
 - **Tools**: Git, Docker, CI/CD
 - **Testing**: Unit Testing
-- **Algorithms & Data Structures**: Proficient in basic algorithms and data structures
 - **Version Control**: Git, GitHub/GitLab
 
 ## My projects
